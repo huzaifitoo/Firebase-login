@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "125956163213",
+    "project_id": "datastoreapp-14883",
+    "storage_bucket": "datastoreapp-14883.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:125956163213:android:0ddd0cb1584105f80984c4",
+        "android_client_info": {
+          "package_name": "com.example.firebasedatastore"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "125956163213-96lg2rn56u5c6b5p4t8nr8unt43e3p1o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBW-PDCm7LfuNijrEGuNqlH8IqJlTQeTtk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "125956163213-96lg2rn56u5c6b5p4t8nr8unt43e3p1o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
